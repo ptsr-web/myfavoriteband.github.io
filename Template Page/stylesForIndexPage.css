@@ -1,0 +1,38 @@
+article {
+    padding: 10px;
+    background-color: gray;
+    margin: 20px;
+    border-style: groove;
+  }
+  
+  h1 {
+    font-size: 56px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  
+  body {
+    background-color: #0d95cf;
+  }
+  
+  nav {
+    align-content: center;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+  }
+  
+  .center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+  }
+  
+  footer {
+    text-align: center;
+  }
+  
+  hr {
+    background: linear-gradient(to right, black, white);
+    border: none;
+    height: 2px;
+  }
